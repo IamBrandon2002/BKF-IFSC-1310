@@ -1,0 +1,20 @@
+/* ------ Style for css-demo ----- */
+
+/*  ---------------Box Sizing-----------------  */
+
+html {
+    box-sizing: border-box;
+  }
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  /*  --------------- Global Styles -----------------  */
+  
+  body{
+  font-family: 'Gabarito', cursive;
+    background-color: #fefbd8;
+  }
+  
